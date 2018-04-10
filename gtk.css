@@ -1,0 +1,23 @@
+TerminalWindow .notebook tab {
+    border-radius: 0;
+    box-shadow: none;
+
+    border: 1px solid #333;
+    background-color: #222;
+}
+
+TerminalWindow .notebook tab:active {
+    border: 1px solid coral;
+    background-color: #b1512e;
+}
+
+TerminalTabLabel .label {
+    color: #999;
+    font-weight: 300;
+}
+
+TerminalTabLabel.active-page .label {
+    color: #ccc;
+    font-weight: 400;
+}
+
