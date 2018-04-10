@@ -9,3 +9,12 @@ The styles included in this repo changes the appearance of
 the tabs, and makes the active tab stand out with an orange
 color.
 
+![Image of default tab style, Ubuntu 16.04](default.png)
+
+*Above:* Default tab style, Ubuntu 16.04
+
+
+![Image of custom tab style, Ubuntu 16.04](custom.png)
+
+*Above:* Custom style, from applying this gtk.css
+
