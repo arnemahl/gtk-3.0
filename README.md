@@ -1,6 +1,6 @@
 # Ubuntu terminal appearance
 
-On Ubuntu, to change appearance of the terminal:
+On Ubuntu 16.04, to change appearance of the terminal:
 
 1. Edit the file `~/.config/gtk-3.0/gtk.css`
 2. Close all terminal windows and reopen
